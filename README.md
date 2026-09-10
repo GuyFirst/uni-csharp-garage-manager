@@ -12,7 +12,7 @@ A C# console application designed to manage a vehicle garage. This project was b
   * Inflate tires to maximum pressure safely.
   * Refuel gas-powered vehicles and recharge electric ones.
 
-## 🛠️ Technical Highlights (For Interviewers)
+## 🛠️ Technical Highlights
 
 This project heavily utilizes C# and OOP paradigms to ensure the code is scalable, maintainable, and robust:
 
